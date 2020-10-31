@@ -1,3 +1,3 @@
-SELECT
+select
 	*
-FROM TABELA;
+from Paciente
